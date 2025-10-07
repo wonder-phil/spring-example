@@ -1,3 +1,5 @@
 # spring-example
 
-> curl http://localhost:8080
+
+> ./mvnw clean install <br />
+> curl http://localhost:8080 <br />
